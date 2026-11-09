@@ -77,3 +77,4 @@ if __name__ == "__main__":
 def tarkista_luvut(luvut):
     if luvut[0] > 0 and luvut[1] > 0 and luvut[2] > 0:
         print(sum(luvut))
+# Pylint-testi: Tämä kommentti on tarkoituksella yli kahdeksankymmentä merkkiä pitkä, jotta rivin pituuden tarkistus epäonnistuu.
